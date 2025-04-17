@@ -9,6 +9,7 @@
     gap: 20px;
     border-radius: 10px;
     padding: 40px 50px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
 
 .container hr{
@@ -52,11 +53,11 @@
   }
 
   .container .correct{
-    background: #dffff2;
-    border-color: #00d397;
+    background: #edfcf5;
+    border-color: #13d49e;
   }
 
   .container .wrong{
-    background: #ffebeb;
-    border-color: #ff4a4a;
+    background: #f8f1f1;
+    border-color: #fa6363;
   }

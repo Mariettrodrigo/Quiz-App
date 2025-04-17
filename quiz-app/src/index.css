@@ -5,12 +5,7 @@
 
 body{
   height: 100vh;
-  background-image: linear-gradient(white, rgb(163, 162, 162));
+  background-image: white;
   font-family: 'poppins';
- /* margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;*/
 }
 
