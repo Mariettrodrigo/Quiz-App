@@ -1,0 +1,52 @@
+.container{
+    width: 640px;
+    margin: auto;
+    margin-top: 60px;
+    background: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+
+.container hr{
+    height: 2px;
+    border: none;
+    background: #3c4043;
+}
+
+.container h2{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.container ul li{
+    display: flex;
+    align-items: center;
+    height: 45px;
+    padding-left: 15px;
+    border: 1px solid #3c4043;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.container button{
+    margin: auto;
+    width: 100px;
+    height: 45px;
+    background: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.container .index{
+    margin: auto;
+    font-size: 15px;
+  }
